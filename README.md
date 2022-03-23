@@ -1,0 +1,3 @@
+# rust-training
+
+My version based on the course [Learn Rust by Building Real Applications](https://deloittedevelopment.udemy.com/course/rust-fundamentals/learn/lecture/20772714#overview) by [Lyubomir Gavadinov](https://deloittedevelopment.udemy.com/user/lyubomir-gavadinov/), kudos to him...
